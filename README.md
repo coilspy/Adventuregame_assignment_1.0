@@ -2,6 +2,7 @@ Adventuregame_assignment_1.0
 ============================
 
 Just my assignment in school.
+{
 
 using System;
 using System.Collections.Generic;
