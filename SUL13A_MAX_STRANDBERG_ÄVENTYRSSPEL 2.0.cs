@@ -15,6 +15,7 @@ namespace ConsoleApplication22
             string VapenKöp;
             int Guld = 150;
 
+            int gla;
             Console.Clear();
             Console.WriteLine("Du vaknar på den kalla stenmarken i skogen.\nDin regnbågsskitande raptor väckte dig.");
             Console.WriteLine("Vill du \"packa\" dina saker och sticka eller bara \"sticka\"");
